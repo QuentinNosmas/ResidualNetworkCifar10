@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project: datasets, checkpoints and model weights
+data/
+checkpoints/
+*.pt
+*.pth
